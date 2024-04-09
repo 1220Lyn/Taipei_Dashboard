@@ -1,0 +1,190 @@
+{
+	"type": "FeatureCollection",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"sitename": "林口",
+				"siteengname": "Linkou",
+				"areaname": "北部空品區",
+				"county": "新北市",
+				"township": "林口區",
+				"siteaddress": "新北市林口區文化路一段425號",
+				"twd97lon": 121.36548982,
+				"twd97lat": 25.07798949,
+				"sitetype": "一般站",
+				"siteid": 9,
+				"AQI": 86
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.36548982,
+					25.07798949
+				]
+			}
+		},
+		{
+			"type": "feature",
+			"properties": {
+				"sitename": "桃園",
+				"siteengname": "Taoyuan",
+				"areaname": "北部空品區",
+				"county": "桃園市",
+				"township": "桃園區",
+				"siteaddress": "桃園市桃園區莒光街15號",
+				"twd97lon": 121.30500531,
+				"twd97lat": 24.9947107,
+				"sitetype": "一般站",
+				"siteid": 17,
+				"AQI": 130
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.30500531,
+					24.9947107
+				]
+			}
+		},
+		{
+			"type": "feature",
+			"properties": {
+				"sitename": "大園",
+				"siteengname": "Dayuan",
+				"areaname": "北部空品區",
+				"county": "桃園市",
+				"township": "大園區",
+				"siteaddress": "桃園市大園區中正東路160號",
+				"twd97lon": 121.20251473,
+				"twd97lat": 25.06100357,
+				"sitetype": "一般站",
+				"siteid": 18,
+				"AQI": 97
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.20251473,
+					25.06100357
+				]
+			}
+		},
+		{
+			"type": "feature",
+			"properties": {
+				"sitename": "觀音",
+				"siteengname": "Guanyin",
+				"areaname": "北部空品區",
+				"county": "桃園市",
+				"township": "觀音區",
+				"siteaddress": "桃園市觀音區文化路2號",
+				"twd97lon": 121.08283092,
+				"twd97lat": 25.03556747,
+				"sitetype": "背景站",
+				"siteid": 19,
+				"AQI": 100
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.08283092,
+					25.03556747
+				]
+			}
+		},
+		{
+			"type": "feature",
+			"properties": {
+				"sitename": "平鎮",
+				"siteengname": "Pingzhen",
+				"areaname": "北部空品區",
+				"county": "桃園市",
+				"township": "平鎮區",
+				"siteaddress": "324桃園市平鎮區復興街55號",
+				"twd97lon": 121.203986,
+				"twd97lat": 24.952786,
+				"sitetype": "一般站",
+				"siteid": 20,
+				"AQI": 114
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.203986,
+					24.952786
+				]
+			}
+		},
+		{
+			"type": "feature",
+			"properties": {
+				"sitename": "龍潭",
+				"siteengname": "Longtan",
+				"areaname": "北部空品區",
+				"county": "桃園市",
+				"township": "龍潭區",
+				"siteaddress": "桃園市龍潭區中正路210號",
+				"twd97lon": 121.21645772,
+				"twd97lat": 24.86400048,
+				"sitetype": "一般站",
+				"siteid": 21,
+				"AQI": 121
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.21645772,
+					24.86400048
+				]
+			}
+		},
+		{
+			"type": "feature",
+			"properties": {
+				"sitename": "湖口",
+				"siteengname": "Hukou",
+				"areaname": "竹苗空品區",
+				"county": "新竹縣",
+				"township": "湖口鄉",
+				"siteaddress": "新竹縣湖口鄉成功路360號",
+				"twd97lon": 121.03886894,
+				"twd97lat": 24.90009696,
+				"sitetype": "一般站",
+				"siteid": 22,
+				"AQI": 119
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.03886894,
+					24.90009696
+				]
+			}
+		},
+		{
+			"type": "feature",
+			"properties": {
+				"sitename": "中壢",
+				"siteengname": "Zhongli",
+				"areaname": "北部空品區",
+				"county": "桃園市",
+				"township": "中壢區",
+				"siteaddress": "桃園市中壢區延平路622號",
+				"twd97lon": 121.221667,
+				"twd97lat": 24.953278,
+				"sitetype": "交通站",
+				"siteid": 68,
+				"AQI": 116
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.221667,
+					24.953278
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,789 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第一救災救護大隊",
+            "addr": "桃園市桃園區力行路280號",
+            "phone": "03-3341765",
+            "tax": "03-3343297"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.298072,
+                24.9996532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "桃園分隊",
+            "addr": "桃園市桃園區力行路280號",
+            "phone": "03-3379119",
+            "tax": "03-33370006"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.298072,
+                24.9996532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大林分隊",
+            "addr": "桃園市桃園區樹仁二街39號",
+            "phone": "03-3612240",
+            "tax": "03-3670615"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3204523,
+                24.9780392
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中路分隊",
+            "addr": "桃園市桃園區國豐六街96號",
+            "phone": "03-3441714",
+            "tax": "03-3441724"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2778882,
+                24.9897968
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "八德分隊",
+            "addr": "桃園市八德區介壽路2段685巷10號",
+            "phone": "03-3681440",
+            "tax": "03-3656923"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2985151,
+                24.9393409
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大湳分隊",
+            "addr": "桃園市八德區建國路1133號",
+            "phone": "03-3661570",
+            "tax": "03-3671030"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.296907,
+                24.9571578
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "龜山分隊",
+            "addr": "桃園市龜山區萬壽路2段639號",
+            "phone": "03-3299674",
+            "tax": "03-3509515"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3462158,
+                24.9992306
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "坪頂分隊",
+            "addr": "桃園市龜山區復興三路80號",
+            "phone": "03-3280309",
+            "tax": "03-3970903"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3737202,
+                25.0523299
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "迴龍分隊",
+            "addr": "桃園市龜山區萬壽路1段42號",
+            "phone": "02-82091576",
+            "tax": "02-82094266"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3636111,
+                25.0022179
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "茄苳分隊",
+            "addr": "桃園市八德區茄苳路950號",
+            "phone": "03-3779440",
+            "tax": "03-3775344"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2786969,
+                24.9652038
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "三民分隊",
+            "addr": "桃園市桃園區三民路3段26號",
+            "phone": "03-3339236",
+            "tax": "03-3339256"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.306726,
+                24.998062
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大有分隊",
+            "addr": "桃園市桃園區民有十街88號",
+            "phone": "03-3167112",
+            "tax": "03-3167113"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3220387,
+                25.010361
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第二救災救護大隊",
+            "addr": "桃園市中壢區義民路120號",
+            "phone": "03-4013422",
+            "tax": "03-4013420"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2154874,
+                24.9531306
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中壢分隊",
+            "addr": "桃園市中壢區義民路120號",
+            "phone": "03-4013312_03-4013315",
+            "tax": "03-4013174"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2154874,
+                24.9531306
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "興國分隊",
+            "addr": "桃園市中壢區中豐路88號",
+            "phone": "03-4258146",
+            "tax": "03-4261491"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2175063,
+                24.948123
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "內壢分隊",
+            "addr": "桃園市中壢區吉林路62號",
+            "phone": "03-4521694_03-4622036",
+            "tax": "03-4520958"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2455065,
+                24.9790312
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "龍岡分隊",
+            "addr": "桃園市中壢區龍岡路3段754號",
+            "phone": "03-4601418_03-4501498",
+            "tax": "03-4607790"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2436128,
+                24.925844
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "華勛分隊",
+            "addr": "桃園市中壢區榮民南路800號",
+            "phone": "03-4567991",
+            "tax": "03-4567994"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2565785,
+                24.9409409
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "楊梅分隊",
+            "addr": "桃園市楊梅區新農街245巷20號",
+            "phone": "03-4782294",
+            "tax": "03-4786211"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1525587,
+                24.9106896
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "幼獅分隊",
+            "addr": "桃園市楊梅區幼獅路1段456號",
+            "phone": "03-4641706",
+            "tax": "03-4962422"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1855473,
+                24.9228065
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "富岡分隊",
+            "addr": "桃園市楊梅區員本里12鄰員德路20號",
+            "phone": "03-2821184",
+            "tax": "03-2821174"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.089108,
+                24.9363108
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新屋分隊",
+            "addr": "桃園市新屋區中華路436號",
+            "phone": "03-4777270",
+            "tax": "03-4772509"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1063933,
+                24.976391
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "永安分隊",
+            "addr": "桃園市新屋區永安里濱海路永安段251巷51號",
+            "phone": "03-4861297",
+            "tax": "03-4861307"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.0189856,
+                24.9914053
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "青埔分隊",
+            "addr": "桃園市中壢區青埔路1段69號",
+            "phone": "03-4532910",
+            "tax": "03-4533206"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2149656,
+                25.0087078
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "埔心分隊",
+            "addr": "桃園市楊梅區五守街150號",
+            "phone": "03-4817310",
+            "tax": "03-4315961"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1869382,
+                24.911334
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第三救災救護大隊",
+            "addr": "桃園市蘆竹區錦溪路119號",
+            "phone": "03-2127415",
+            "tax": "03-2127420"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2890338,
+                25.0548171
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大園分隊",
+            "addr": "桃園市大園區和平二街5號",
+            "phone": "03-3862332_03-3853439",
+            "tax": "03-3851332"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2011215,
+                25.0613757
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "蘆竹分隊",
+            "addr": "桃園市蘆竹區錦溪路119號",
+            "phone": "03-3226462",
+            "tax": "03-3225344"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2890338,
+                25.0548171
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大竹分隊",
+            "addr": "桃園市蘆竹區上興路188號",
+            "phone": "03-3137935",
+            "tax": "03-3137934"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2611125,
+                25.0189044
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "山腳分隊",
+            "addr": "桃園市蘆竹區山外路515號",
+            "phone": "03-3249250",
+            "tax": "03-3249382"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2911142,
+                25.0824976
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "觀音分隊",
+            "addr": "桃園市觀音區廣興一路118號",
+            "phone": "03-4732014_03-4732834、03-4736557",
+            "tax": "03-4736560"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.0866466,
+                25.0319575
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新坡分隊",
+            "addr": "桃園市觀音區中山路2段670號",
+            "phone": "03-4981454",
+            "tax": "03-4987914"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1362921,
+                25.0126038
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "草漯分隊",
+            "addr": "桃園市觀音區工業五路1號",
+            "phone": "03-4832924_03-4830924",
+            "tax": "03-4837563"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1178427,
+                25.0527471
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "竹圍分隊",
+            "addr": "桃園市大園區竹圍里11鄰海方厝33之23號",
+            "phone": "03-3937029",
+            "tax": "03-3937030"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2406816,
+                25.1004005
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第四救災救護大隊",
+            "addr": "桃園市龍潭區中興路726號",
+            "phone": "(03)4703930",
+            "tax": "03-4709063"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2212968,
+                24.869921
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "平鎮分隊",
+            "addr": "桃園市平鎮區中豐路南勢2段174號",
+            "phone": "03-4390315",
+            "tax": "03-4390758"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2111079,
+                24.9195916
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "復旦分隊",
+            "addr": "桃園市平鎮區復旦路2段133號",
+            "phone": "03-4947816",
+            "tax": "03-4947914"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2024254,
+                24.9475803
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "山峰分隊",
+            "addr": "桃園市平鎮區南豐路263號",
+            "phone": "03-4697041",
+            "tax": "03-4690600"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2028762,
+                24.899787
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "龍潭分隊",
+            "addr": "桃園市龍潭區中山里中興路726號",
+            "phone": "03-4792442",
+            "tax": "03-4804090"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2212968,
+                24.869921
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "高平分隊",
+            "addr": "桃園市龍潭區渴望二路99巷15號",
+            "phone": "03-4072661",
+            "tax": "03-4072662"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1838574,
+                24.8418849
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大溪分隊",
+            "addr": "桃園市大溪區月眉里15鄰100號",
+            "phone": "03-3882341_03-3882058",
+            "tax": "03-3872805"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3012581,
+                24.8954123
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "圳頂分隊",
+            "addr": "桃園市大溪區介壽路740號",
+            "phone": "03-3891892",
+            "tax": "03-3909310"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2845717,
+                24.904649
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "復興分隊",
+            "addr": "桃園市復興區澤仁里中山路2號",
+            "phone": "03-3822491",
+            "tax": "03-3821451"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3507558,
+                24.8141984
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "巴陵分隊",
+            "addr": "桃園市復興區華陵里7鄰巴陵26號",
+            "phone": "03-3913286",
+            "tax": "03-3913287"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.383178,
+                24.678931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "特搜大隊",
+            "addr": "桃園市桃園區三民路3段26號",
+            "phone": "03-3339221",
+            "tax": "03-3339226"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.306726,
+                24.998062
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第一搜救救助分隊",
+            "addr": "桃園市桃園區三民路3段26號",
+            "phone": "03-3339236",
+            "tax": "03-3339256"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.306726,
+                24.998062
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第二搜救救助分隊",
+            "addr": "桃園市中壢區中豐路88號",
+            "phone": "03-4258146",
+            "tax": "03-4261491"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2175063,
+                24.948123
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第三搜救救助分隊",
+            "addr": "桃園市大園區和平二街5號",
+            "phone": "03-3841786",
+            "tax": "03-3840287"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2011215,
+                25.0613757
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第四搜救救助分隊",
+            "addr": "桃園市龍潭區中山里中興路726號",
+            "phone": "03-4706710",
+            "tax": "03-4709182"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2212968,
+                24.869921
+            ]
+        }
+    }
+]
+}

@@ -1,0 +1,20 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+	{
+	"type": "Feature",
+	"id": "history_locate.444444",
+	"geometry": { "type": "Point", "coordinates": [121.24179, 24.95816] },
+	"geometry_name": "wkb_geometry",
+	"properties": {
+	"station_id": "TPE500101001",
+	"station": "捷運科技大樓站",
+	"dist": "中壢區",
+	"version": "2",
+	"positionlon": 121.24179,
+	"positionlat": 24.95816
+	},
+	"bbox": [121.24179, 24.95816, 121.24179, 24.95816]
+	}
+	]
+}

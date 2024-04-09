@@ -1,0 +1,681 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}
+    },
+    "features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "春鼎機械工業股份有限公司",
+            "addr": "桃園市桃園區西埔里富國路861巷101號",
+            "industry": "29機械設備製造業",
+            "dist": "桃園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2746767,
+                25.0230422
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "景富開發股份有限公司",
+            "addr": "桃園市桃園區汴洲里經國路857號5樓之1",
+            "industry": "12成衣及服飾品製造業",
+            "dist": "桃園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3003327,
+                25.0302353
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "杜邦高性能材料股份有限公司桃園廠",
+            "addr": "桃園市桃園區大林里興邦路45號",
+            "industry": "19其他化學製品製造業",
+            "dist": "桃園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3278253,
+                24.9790615
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "暘名企業有限公司",
+            "addr": "桃園市桃園區大樹里大明街56巷8之2號",
+            "industry": "15紙漿、紙及紙製品製造業、16印刷及資料儲存媒體複製業",
+            "dist": "桃園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3184861,
+                24.9799087
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "杏隆實業股份有限公司桃園廠",
+            "addr": "桃園市桃園區大林里興隆路9號",
+            "industry": "11紡織業",
+            "dist": "桃園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3214552,
+                24.9842902
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "材霈有限公司",
+            "addr": "桃園市桃園區汴洲里春日路1434巷123號2樓",
+            "industry": "11紡織業、12成衣及服飾品製造業",
+            "dist": "桃園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3073064,
+                25.028702
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "村錢工業有限公司",
+            "addr": "桃園市桃園區中山里桃德路39巷55號",
+            "industry": "25金屬製品製造業、29機械設備製造業、26電子零組件製造業",
+            "dist": "桃園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2929505,
+                24.9657067
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "盛拓工業有限公司",
+            "addr": "桃園市龜山區龍壽里東萬壽路６４２巷６８號",
+            "industry": "25金屬製品製造業、29機械設備製造業、26電子零組件製造業、30汽車及其零件製造業、31其他運輸工具及其零件製造業",
+            "dist": "龜山區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3790885,
+                25.0092265
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "海沖精密工業有限公司",
+            "addr": "桃園市龜山區嶺頂里萬壽路二段四一○巷九號",
+            "industry": "25金屬製品製造業、28電力設備及配備製造業",
+            "dist": "龜山區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.355219,
+                25.0013303
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "煜軒食品行",
+            "addr": "桃園市龜山區龍壽里龍校街119巷22號(1樓)",
+            "industry": "08食品製造業",
+            "dist": "龜山區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3905884,
+                25.0101894
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "白金科技股份有限公司二廠",
+            "addr": "桃園市龜山區文化里科技二路37號(2樓)",
+            "industry": "25金屬製品製造業",
+            "dist": "龜山區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3793785,
+                25.0497935
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "益品塑膠有限公司",
+            "addr": "桃園市龜山區南上里民生北路一段166巷11號5樓",
+            "industry": "22塑膠製品製造業、33其他製造業",
+            "dist": "龜山區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3031277,
+                25.0355379
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "清三環境科技股份有限公司A7廠",
+            "addr": "桃園市龜山區樂善里文工一路258號3樓",
+            "industry": "29機械設備製造業",
+            "dist": "龜山區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3937659,
+                25.0497929
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "源璋企業有限公司龜山廠",
+            "addr": "桃園市龜山區龍壽里東萬壽路六四二巷六號",
+            "industry": "29機械設備製造業、25金屬製品製造業",
+            "dist": "龜山區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.378208,
+                25.0097508
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "生龍有限公司",
+            "addr": "桃園市平鎮區平南里中豐路南勢二段460巷65弄1-1號(3樓)",
+            "industry": "25金屬製品製造業、29機械設備製造業",
+            "dist": "平鎮區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2092587,
+                24.9076507
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "達玄生化科技有限公司",
+            "addr": "桃園市平鎮區雙連里民族路雙連二段一一八巷五三弄一二號",
+            "industry": "08食品製造業",
+            "dist": "平鎮區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1829271,
+                24.9590804
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "達瑋生技股份有限公司",
+            "addr": "桃園市平鎮區建安里平東路659巷31號(4樓)",
+            "industry": "16印刷及資料儲存媒體複製業、33其他製造業",
+            "dist": "平鎮區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2409062,
+                24.9110792
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "邦貿機械股份有限公司",
+            "addr": "桃園市平鎮區東勢里金陵路五段二四九號一樓",
+            "industry": "29機械設備製造業",
+            "dist": "平鎮區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2310645,
+                24.907787
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "煜豐機械工業有限公司",
+            "addr": "桃園市平鎮區東安里東光路一五號",
+            "industry": "29機械設備製造業",
+            "dist": "平鎮區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2533892,
+                24.9153516
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "瑋燁股份有限公司平鎮廠",
+            "addr": "桃園市平鎮區雙連里民族路雙連二段一一八巷四九弄三０號",
+            "industry": "29機械設備製造業、25金屬製品製造業、22塑膠製品製造業",
+            "dist": "平鎮區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1829271,
+                24.9590804
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "甫拓企業有限公司平鎮廠",
+            "addr": "桃園市平鎮區廣仁里大昌路57巷2號",
+            "industry": "25金屬製品製造業",
+            "dist": "平鎮區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2105625,
+                24.9400197
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "申鉅有限公司",
+            "addr": "桃園市平鎮區建安里平東路一段一七八巷三四號",
+            "industry": "22塑膠製品製造業、29機械設備製造業",
+            "dist": "平鎮區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2340752,
+                24.9114642
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "瑞穎股份有限公司楊梅廠",
+            "addr": "桃園市楊梅區高榮里高榮路239巷190之3號、190之8號",
+            "industry": "29機械設備製造業",
+            "dist": "楊梅區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1547462,
+                24.9527217
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "湧禾興業股份有限公司",
+            "addr": "桃園市楊梅區高上里幼一路9號",
+            "industry": "24基本金屬製造業、28電力設備及配備製造業",
+            "dist": "楊梅區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1706082,
+                24.928181
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "瑞佳數位科技有限公司",
+            "addr": "桃園市楊梅區仁美里梅獅路一段92號",
+            "industry": "16印刷及資料儲存媒體複製業",
+            "dist": "楊梅區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1727668,
+                24.9119517
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "涵群精密股份有限公司",
+            "addr": "桃園市楊梅區秀才里秀才路769巷16號",
+            "industry": "25金屬製品製造業、29機械設備製造業",
+            "dist": "楊梅區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1376225,
+                24.8918684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潔閎有限公司大園二廠",
+            "addr": "桃園市大園區北港里工五路3號",
+            "industry": "22塑膠製品製造業",
+            "dist": "大園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1755299,
+                25.0713377
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潔閎有限公司大園廠",
+            "addr": "桃園市大園區五權里中正東路2段475巷109之1號",
+            "industry": "22塑膠製品製造業",
+            "dist": "大園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2305365,
+                25.0201995
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤乙企業有限公司",
+            "addr": "桃園市大園區五權里五青路150巷22號",
+            "industry": "25金屬製品製造業、29機械設備製造業",
+            "dist": "大園區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2359244,
+                25.021944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "景怡自動化機械有限公司龍潭廠",
+            "addr": "桃園市龍潭區烏林里工五路七四巷一號",
+            "industry": "29機械設備製造業",
+            "dist": "龍潭區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2082376,
+                24.8887132
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "有駿實業股份有限公司",
+            "addr": "桃園市龍潭區烏林里工二路1段213號",
+            "industry": "30汽車及其零件製造業",
+            "dist": "龍潭區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2073503,
+                24.8906556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "東建橡膠工廠有限公司",
+            "addr": "桃園市龍潭區高平里高楊南路三二○巷八號",
+            "industry": "21橡膠製品製造業",
+            "dist": "龍潭區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2149394,
+                24.8296306
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "松昌科技有限公司",
+            "addr": "桃園市龍潭區烏林里工二路70巷24弄2號(1樓)",
+            "industry": "22塑膠製品製造業、25金屬製品製造業、26電子零組件製造業",
+			"dist": "龍潭區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2105786,
+                24.887217
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "源昌豆腐店",
+            "addr": "桃園市大溪區月眉里信義路376號1樓",
+            "industry": "08食品製造業",
+            "dist": "大溪區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3001074,
+                24.8902065
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "濠立泵浦企業有限公司",
+            "addr": "桃園市大溪區月眉里信義路489號",
+            "industry": "29機械設備製造業",
+            "dist": "大溪區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.30048,
+                24.894066
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "睦祥機械股份有限公司",
+            "addr": "桃園市八德區茄苳里茄苳路８３８號",
+            "industry": "29機械設備製造業",
+            "dist": "八德區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2795127,
+                24.9679677
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "益佳電子有限公司",
+            "addr": "桃園市八德區大安里和平路六九二巷五四弄一二號一樓",
+            "industry": "26電子零組件製造業、28電力設備及配備製造業",
+            "dist": "八德區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.3150062,
+                24.9566897
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "狀虎工業股份有限公司",
+            "addr": "桃園市中壢區內定里內定二十街158巷16號",
+            "industry": "29機械設備製造業",
+            "dist": "中壢區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2329611,
+                25.0034633
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "生光化學工業股份有限公司中壢廠",
+            "addr": "桃園市中壢區內定里松江北路8號",
+            "industry": "19其他化學製品製造業、18化學材料及肥料製造業",
+            "dist": "中壢區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2488271,
+                24.988835
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "溢通塑膠有限公司",
+            "addr": "桃園市觀音區新坡里中山路二段39巷117號",
+            "industry": "22塑膠製品製造業",
+            "dist": "觀音區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.1230653,
+                25.0193637
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "特力安有限公司新屋廠",
+            "addr": "桃園市新屋區永安里12鄰永福路660號",
+            "industry": "22塑膠製品製造業",
+            "dist": "新屋區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.0328027,
+                24.9856301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤鉅實業有限公司",
+            "addr": "桃園市蘆竹區錦興里南崁路二段66號3樓之1",
+            "industry": "27電腦、電子產品及光學製品製造業",
+            "dist": "蘆竹區"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.2788,
+                25.05738
+            ]
+        }
+    }
+]
+}
