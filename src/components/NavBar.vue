@@ -31,7 +31,7 @@ const linkQuery = computed(() => {
 			</div>
 			<div>
 				<h1>{{ VITE_APP_TITLE }}</h1>
-				<h2>Taipei City Dashboard Open Source</h2>
+				<h2>Taoyuan City Dashboard Open Source</h2>
 			</div>
 		</div>
 		<div class="navbar-tabs hide-if-mobile">
